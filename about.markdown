@@ -3,6 +3,7 @@ layout: page
 title: Sobre o autor
 permalink: /about/
 ---
+<img src="/assets/perfil.jpg" width="100" height="100">
 
 Olá, muito prazer. Meu nome é Renato Godois e abaixo segue um resumo sobre a minha carreira profissional:
 
