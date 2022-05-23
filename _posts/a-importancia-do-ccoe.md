@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A importância do CCoE  para as organizações e porque elas precisam de um"
-date:   2022-04-21 17:05:00 -0300
+date:   2022-05-23 14:00:00 -0300
 categories: jekyll update
 ---
 
