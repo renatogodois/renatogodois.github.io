@@ -27,5 +27,5 @@ for script in "/tmp/publish.d/*"; do
 done
 git add .
 git commit -m "publish commit ${commit_hash}"
-git push -u
+git push --set-upstream origin gh-pages
 git checkout ${branch}
