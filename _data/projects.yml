@@ -1,0 +1,9 @@
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url:  # Full URL
+    image: # path: assets/project/
+    date: 06/2019 &ndash; Developing
+    title: Under construction
+    summary: Under construction part
+    description:  
