@@ -27,7 +27,7 @@ A estruturação bem sucedia de um CCoE traz inúmeros benefícios para o negóc
 O CCoE fomenta uma mudança total de paradigma em TI, pois traz uma nova abordagem para o negócio, mudando a visão da TI tradicional como conhecemos para um modelo mais ágil e atualizado.
 A imagem abaixo nos dá uma visão dessa nova alteração. Na falta de um CCoE, a TI se concentra em fornecer somente controle e responsabilidade central, tal como um semáforo. Quando o CCoE está bem estruturado, é como se houvesse uma rotatória, onde o foco é a delegação de liberdade e responsabilidade.
 
-![CCoE](/assets/CCoE.jpg)
+![CCoE](/assets/img/CCoE.jpg)
 
 #### Responsabilidades do CCoE
 
